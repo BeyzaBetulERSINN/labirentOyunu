@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1511656679 source:c:\users\user\desktop\÷neml›\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1511657444 source:c:\users\user\desktop\projeler\3.proje\÷neml›\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
