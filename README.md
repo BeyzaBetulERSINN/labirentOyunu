@@ -1,0 +1,2 @@
+# labirenOyunu
+ Bir labirent içinde yolları girilen koordinatlar arasın yolun olup olmadığını buluyor.  Kullanıcının girdiği matris değerine göre rand fonksiyonu ile 0 ile 1 arasında sayılar üretiliyor.  Üretilen sayılar matrisin elemanlarını oluşturuyor. Projenin kurallarına göre 1 olan koordinatlar duvar 0 olan koordinatlar labirent olarak kabul ediyor.  Kullanıcıdan giriş ve çıkış koordinatları istiyor ve girilen koordinatlara göre yol buluyor. Yol yok ise yollun olmadığını belirtiyor.  1 olan yolları bulurken aşağı yukarı sağa sola şeklinde ilerliyor.
